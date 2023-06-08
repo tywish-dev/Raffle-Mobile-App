@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "959613903533",
+    "project_id": "rafflemobileapp",
+    "storage_bucket": "rafflemobileapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959613903533:android:f2c632e1576110f077dc24",
+        "android_client_info": {
+          "package_name": "com.example.raffle_mobile_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959613903533-csea6u51t5k7n63vou8vtbgtkcah84qf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDejiYFzOrlZpwql4q0zGqL15TDB8Fu_Bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959613903533-csea6u51t5k7n63vou8vtbgtkcah84qf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
